@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{The LPN Problem}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{In General}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Formally}{5}{0}{1}
+\beamer@sectionintoc {2}{Public-key Encryption Scheme}{6}{0}{2}
+\beamer@sectionintoc {3}{Future Research Aims}{13}{0}{3}
+\beamer@sectionintoc {4}{Base IND-CPA PKE Scheme}{14}{0}{4}
+\beamer@sectionintoc {5}{IND-CCA1 Secure PKE Scheme}{21}{0}{5}
+\beamer@sectionintoc {6}{IND-CCA2 Secure PKE Scheme}{27}{0}{6}
+\beamer@sectionintoc {7}{Aim of Our Research}{33}{0}{7}
